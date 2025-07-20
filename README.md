@@ -33,6 +33,15 @@ Simple Java application integrated with a CI/CD pipeline using Jenkins and Docke
 
 ---
 
+#### 🔹 [ec2-launcher-cli](https://github.com/abhi-gadge1773/ec2-launcher-cli)
+[![Repo Stars](https://img.shields.io/github/stars/abhi-gadge1773/ec2-launcher-cli?style=social)](https://github.com/abhi-gadge1773/ec2-launcher-cli/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/abhi-gadge1773/ec2-launcher-cli)](https://github.com/abhi-gadge1773/ec2-launcher-cli/commits)
+[![Language](https://img.shields.io/github/languages/top/abhi-gadge1773/ec2-launcher-cli)](https://github.com/abhi-gadge1773/ec2-launcher-cli)
+
+Interactive Bash-based CLI tool to automate the creation of AWS EC2 instances. Supports secure key handling, logging, and dynamic menu-based instance management for beginners and DevOps learners.
+
+
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhi-gadge1773&show_icons=true&theme=tokyonight" alt="Abhijeet's GitHub stats" />
