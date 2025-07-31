@@ -15,13 +15,6 @@
 
 ### 🚀 Featured Projects
 
-#### 🔹 [Automated-CI-CD-Pipeline-App-on-AWS-with-Self-Managed-Kubernetes](https://github.com/abhi-gadge1773/Automated-CI-CD-Pipeline-App-on-AWS-with-Self-Managed-Kubernetes)
-[![Repo Stars](https://img.shields.io/github/stars/abhi-gadge1773/Automated-CI-CD-Pipeline-App-on-AWS-with-Self-Managed-Kubernetes?style=social)](https://github.com/abhi-gadge1773/Automated-CI-CD-Pipeline-App-on-AWS-with-Self-Managed-Kubernetes/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/abhi-gadge1773/Automated-CI-CD-Pipeline-App-on-AWS-with-Self-Managed-Kubernetes)](https://github.com/abhi-gadge1773/Automated-CI-CD-Pipeline-App-on-AWS-with-Self-Managed-Kubernetes/commits)
-[![License](https://img.shields.io/github/license/abhi-gadge1773/Automated-CI-CD-Pipeline-App-on-AWS-with-Self-Managed-Kubernetes)](https://github.com/abhi-gadge1773/Automated-CI-CD-Pipeline-App-on-AWS-with-Self-Managed-Kubernetes/blob/main/LICENSE)
-
-A fully automated CI/CD pipeline to deploy applications on a Kubernetes cluster provisioned on AWS using Terraform, Jenkins, and Ansible. Includes rollback functionality and GitOps integration.
-
 ---
 
 #### 🔹 [java-CICD-app](https://github.com/abhi-gadge1773/java-CICD-app)
