@@ -13,10 +13,15 @@
 
 ---
 
-### 📝 Latest Blog Posts on Medium
-<!-- BLOG-POST-LIST:START -->
-- *(Automatically populated from your Medium profile via GitHub–Medium integration.)*
-<!-- BLOG-POST-LIST:END -->
+### 📝 Latest Blog Posts
+
+- [☸️ Kubernetes: Container Orchestration Made Simple](https://medium.com/@Abhi_gadge/kubernetes-348cccf35aab)
+- [☸️ Kubernetes: Container Orchestration Made Simple (Duplicate)](https://medium.com/@Abhi_gadge/kubernetes-348cccf35aab)
+- [☸️ Kubernetes: Container Orchestration Made Simple (Duplicate)](https://medium.com/@Abhi_gadge/kubernetes-348cccf35aab)
+- [🧰 Jenkins: From Installation to CI/CD](https://medium.com/@Abhi_gadge/jenkins-from-installation-to-ci-cd-867d8ada9683)
+- [🧰 Jenkins: From Installation to CI/CD (Duplicate)](https://medium.com/@Abhi_gadge/jenkins-from-installation-to-ci-cd-867d8ada9683)
+- [🚀 ArgoCD & GitOps: Deploy with Confidence](https://medium.com/@Abhi_gadge/argocd-gitops-516a33dc8e3b)
+- [📦 DevOps Mini Project: CI/CD from Scratch](https://medium.com/@Abhi_gadge/devops-mini-project-e7cfbd173b4f)
 
 ---
 
