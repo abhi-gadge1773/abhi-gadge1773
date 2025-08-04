@@ -3,6 +3,12 @@
 
 ---
 
+```
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=abhi-gadge1773&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-gadge1773" /> 
+</p>
+```
+
 ### 🛠️ Tech Stack
 - 🐧 Linux & Bash Scripting  
 - 🐳 Docker & Containerization  
