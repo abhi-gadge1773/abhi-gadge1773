@@ -1,59 +1,66 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Gadge</h1>
-<h3 align="center">DevOps Engineer passionate about automation, cloud infrastructure, and CI/CD</h3>
+<h3 align="center">DevOps Engineer passionate about automation, cloud infrastructure, and CI/CD </h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abhi-gadge1773&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-gadge1773"/>
+</p>
+
+- 🌱 Currently working with **Docker • Kubernetes • Jenkins • Ansible • Terraform • Argo CD • AWS**
+- 📝 Check out my DevOps blog posts on [Medium](https://medium.com/@Abhi_gadge)
+- 👨‍💻 View all my DevOps and automation projects on [GitHub](https://github.com/abhi-gadge1773?tab=repositories)
+- 💬 Ask me about **CI/CD pipelines, Infrastructure as Code, GitOps, Flask, Linux scripting**
+- 📫 Reach me at: **abhijeetgadge100@gmail.com**
 
 ---
 
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=abhi-gadge1773&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-gadge1773" /> 
-</p>
-
-
-### 🛠️ Tech Stack
-- 🐧 Linux & Bash Scripting  
-- 🐳 Docker & Containerization  
-- ☸️ Kubernetes (Self-managed & Cloud)  
-- 🚀 ArgoCD & GitOps  
-- 🔧 Jenkins CI/CD  
-- 🛠️ Ansible & Terraform for Infrastructure as Code  
+### 📝 Latest Blog Posts on Medium
+<!-- BLOG-POST-LIST:START -->
+- *(Automatically populated from your Medium profile via GitHub–Medium integration.)*
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ### 🚀 Featured Projects
 
+#### **Automated‑CI‑CD‑Pipeline‑App‑on‑AWS‑with‑Self‑Managed‑Kubernetes**
+Fully automated CI/CD solution deploying apps to a self-managed Kubernetes cluster using Terraform, Jenkins, Ansible, and GitOps workflows. Includes rollback and monitoring mechanisms. :contentReference[oaicite:1]{index=1}
+
+#### **Jenkins‑Cluster‑Using‑Docker‑Kubernetes**
+Built from scratch using custom Docker images and Kubernetes pods to orchestrate a Jenkins master-agent architecture, enabling scalable job execution in pipelines. :contentReference[oaicite:2]{index=2}
+
+#### **Ansible Cluster in Docker Containers & Kubernetes Pods**
+Set up SSH-based communication between Ansible master and nodes across Docker containers and Kubernetes pods. Reliable configuration management demonstrated via `ansible -m ping`. :contentReference[oaicite:3]{index=3}
+
+#### **Jenkins Master-Agent Cluster on Docker**
+Orchestrated scalable Jenkins CI/CD using Docker-based master and agent containers with persisted data volumes via Docker Compose. :contentReference[oaicite:4]{index=4}
+
+#### **EKS Cluster with HPA**
+Built AWS EKS cluster with Horizontal Pod Autoscaler (HPA) and load testing to demonstrate Kubernetes autoscaling under CPU load conditions. :contentReference[oaicite:5]{index=5}
+
 ---
 
-#### 🔹 [java-CICD-app](https://github.com/abhi-gadge1773/java-CICD-app)
-[![Repo Stars](https://img.shields.io/github/stars/abhi-gadge1773/java-CICD-app?style=social)](https://github.com/abhi-gadge1773/java-CICD-app/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/abhi-gadge1773/java-CICD-app)](https://github.com/abhi-gadge1773/java-CICD-app/commits)
-[![Language](https://img.shields.io/github/languages/top/abhi-gadge1773/java-CICD-app)](https://github.com/abhi-gadge1773/java-CICD-app)
+### 🔧 Tech Stack & Tools
 
-Simple Java application integrated with a CI/CD pipeline using Jenkins and Docker. The pipeline performs build, test, and deployment stages automatically.
+- ✅ **CI/CD**: Jenkins, GitHub Webhooks, GitHub Actions  
+- 🌐 **Containers & Orchestration**: Docker, Kubernetes (Kubeadm, EKS, Minikube)  
+- ⚙️ **Infrastructure as Code**: Terraform, Ansible  
+- ☁️ **Cloud Platforms**: AWS EC2, EKS (Elastic Kubernetes Service)  
+- 🔄 **GitOps Tools**: Argo CD, YAML-based deployments  
+- 🛠️ **Scripting & Automation**: Bash, Python, Linux  
 
 ---
 
-#### 🔹 [ec2-launcher-cli](https://github.com/abhi-gadge1773/ec2-launcher-cli)
-[![Repo Stars](https://img.shields.io/github/stars/abhi-gadge1773/ec2-launcher-cli?style=social)](https://github.com/abhi-gadge1773/ec2-launcher-cli/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/abhi-gadge1773/ec2-launcher-cli)](https://github.com/abhi-gadge1773/ec2-launcher-cli/commits)
-[![Language](https://img.shields.io/github/languages/top/abhi-gadge1773/ec2-launcher-cli)](https://github.com/abhi-gadge1773/ec2-launcher-cli)
+### 📊 GitHub Stats
 
-Interactive Bash-based CLI tool to automate the creation of AWS EC2 instances. Supports secure key handling, logging, and dynamic menu-based instance management for beginners and DevOps learners.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-gadge1773&show_icons=true&locale=en&layout=compact" alt="top languages"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-gadge1773&show_icons=true&locale=en" alt="GitHub stats"/></p>
 
+---
 
+### 🔗 Let's Connect
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi-gadge1773&show_icons=true&theme=tokyonight" alt="Abhijeet's GitHub stats" />
+<p align="left">
+<a href="https://www.linkedin.com/in/abhijeetgadge" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
+<a href="https://x.com/AbhiGadge5" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X (Twitter)" width="40" height="40"/></a>
+<a href="mailto:abhijeetgadge100@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" width="40" height="40"/></a>
 </p>
-
----
-
-### 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhijeetgadge/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AbhiGadge5)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhijeetgadge100@gmail.com)
-
----
-
-⭐️ *Thanks for visiting my GitHub profile! Feel free to check out my projects and connect with me.*
