@@ -41,18 +41,23 @@ Orchestrated scalable Jenkins CI/CD using Docker-based master and agent containe
 #### **EKS Cluster with HPA**
 Built AWS EKS cluster with Horizontal Pod Autoscaler (HPA) and load testing to demonstrate Kubernetes autoscaling under CPU load conditions. :contentReference[oaicite:5]{index=5}
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7C00?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
 ---
 
-### 🔧 Tech Stack & Tools
-
-- ✅ **CI/CD**: Jenkins, GitHub Webhooks, GitHub Actions  
-- 🌐 **Containers & Orchestration**: Docker, Kubernetes (Kubeadm, EKS, Minikube)  
-- ⚙️ **Infrastructure as Code**: Terraform, Ansible  
-- ☁️ **Cloud Platforms**: AWS EC2, EKS (Elastic Kubernetes Service)  
-- 🔄 **GitOps Tools**: Argo CD, YAML-based deployments  
-- 🛠️ **Scripting & Automation**: Bash, Python, Linux  
-
----
 
 ### 📊 GitHub Stats
 
